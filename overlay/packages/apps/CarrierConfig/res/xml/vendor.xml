@@ -2204,7 +2204,7 @@
         <boolean name="carrier_wfc_ims_available_bool" value="false" />
     </carrier_config>
     <carrier_config mcc="404" mnc="66">
-        <boolean name="carrier_volte_available_bool" value="true" />
+        <boolean name="carrier_volte_available_bool" value="false" />
         <boolean name="carrier_wfc_ims_available_bool" value="false" />
     </carrier_config>
     <carrier_config mcc="404" mnc="15">
